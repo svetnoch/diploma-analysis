@@ -1,1 +1,13 @@
 
+cd Desktop/
+ls
+mkdir "diploma-analysis" (создать папку)  echo > analis.txt
+cd diploma-analysis/
+echo "# diploma-analysis" >> README.md (cоздать файл)
+git status
+git add . (добавление изменений)
+git commit -m "описание" 
+git push (отправка изменений) 
+
+
+
